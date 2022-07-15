@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-28",
+  "project": "07-LAPS-Franchise-Management",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 487,
+      "sha256": "64b6f991e7247c0f742e037de7a6b5b0a09943cb89e0ae9174fffef99c2b745a"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 317,
+      "sha256": "6aba688207846b67a565fe4047449842b6ee9f61ecfe2a6ca4290f233895c1cd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 43880,
+      "sha256": "f6c2e871332e4d0139fe7dce41725fb245f0735aa25fd62835de34f057b530a8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2360,
+      "sha256": "3ad4b0cdef0476d0e7cea32ecbd02381976e6d5f08c2105e06ecf8cc9afb75e2"
+    },
+    {
+      "path": "addons/franchise_operations/__init__.py",
+      "bytes": 49,
+      "sha256": "a0194ed682ebbbeaf2042a7c4a6c4ad885be67b9249c801a8f0760de453ffde0"
+    },
+    {
+      "path": "addons/franchise_operations/__manifest__.py",
+      "bytes": 514,
+      "sha256": "160782cfcd2431bdc96685828e005d886f3bd55792481d1ce71c2b4cc90af5db"
+    },
+    {
+      "path": "addons/franchise_operations/common.py",
+      "bytes": 1833,
+      "sha256": "9276ea7658cd8a0a02b3d4976447fbdec714963cc2d64c4bb41afa893f1d8835"
+    },
+    {
+      "path": "addons/franchise_operations/controllers/__init__.py",
+      "bytes": 40,
+      "sha256": "a5820fdac51c6c60ed10f5b61618f29ed13ded8d76a6d5526101d1db33d0c70b"
+    },
+    {
+      "path": "addons/franchise_operations/controllers/bank.py",
+      "bytes": 1379,
+      "sha256": "87daf677309976dbf92aa20ee127e3f4c60d16a86a6716a82c631eab48a409fd"
+    },
+    {
+      "path": "addons/franchise_operations/controllers/main.py",
+      "bytes": 83,
+      "sha256": "ce0cc9bf68080c89f26528fdb67f2055a6d2f47d6f87b44fcb66a807a31c330e"
+    },
+    {
+      "path": "addons/franchise_operations/data/cron.xml",
+      "bytes": 433,
+      "sha256": "fa7c46f2ce01b38bb684ddcc4b655b015286af76434258f7c0b724bce8b197c6"
+    },
+    {
+      "path": "addons/franchise_operations/demo/fixtures.xml",
+      "bytes": 346,
+      "sha256": "a7bcc2db34bb3ac08bba4199663492544c5fe77e9323747d3f2d70b4877789a8"
+    },
+    {
+      "path": "addons/franchise_operations/models/__init__.py",
+      "bytes": 46,
+      "sha256": "a60484266a42b5a949b6568810e4e496222d0731899cf164fa2e5bea6021abc5"
+    },
+    {
+      "path": "addons/franchise_operations/models/bank.py",
+      "bytes": 7270,
+      "sha256": "841a4e1ba57ff7ad7fd76dbc60b76a68a677dd1a984fb090c02bc33e04135a3a"
+    },
+    {
+      "path": "addons/franchise_operations/models/operations.py",
+      "bytes": 8488,
+      "sha256": "c2c048af0ac681512206f4765a1a587ef764b71302899aa57b7e3abfb08bdeaf"
+    },
+    {
+      "path": "addons/franchise_operations/reports/summary.xml",
+      "bytes": 1208,
+      "sha256": "a12f180b26defe136fbc762d57e540e2ba3a54250744b630e821b8df7a08ff4a"
+    },
+    {
+      "path": "addons/franchise_operations/security/accounts.xml",
+      "bytes": 334,
+      "sha256": "faeb2ebaa4a89c000a8e5c7fd2793730ac2a029eb7198786351326019238bf32"
+    },
+    {
+      "path": "addons/franchise_operations/security/groups.xml",
+      "bytes": 560,
+      "sha256": "bdeb1a896194dc9aae321ead2b9aaf3301fb500f388f601225e0347ad5fd4c3f"
+    },
+    {
+      "path": "addons/franchise_operations/security/ir.model.access.csv",
+      "bytes": 1809,
+      "sha256": "21363bd88b2735821afa160f6cc675bd63a652898d06a056995afd08f6cf27b9"
+    },
+    {
+      "path": "addons/franchise_operations/security/rules.xml",
+      "bytes": 1565,
+      "sha256": "6c4a0e009082e70f070f69e24c501b4f63c6b50a714d4a222ada33dfbec33738"
+    },
+    {
+      "path": "addons/franchise_operations/views/account.xml",
+      "bytes": 352,
+      "sha256": "d0d620d522263d680cb513ff0cb7e7b6f67e1d8f6e1ea3d551dee64846535060"
+    },
+    {
+      "path": "addons/franchise_operations/views/operations.xml",
+      "bytes": 6647,
+      "sha256": "8ddd67bff65a3ee578abe6969a2e4963d60beeb5e4a5b4c6c6301f6f80146a07"
+    },
+    {
+      "path": "docker/compose.yaml",
+      "bytes": 1374,
+      "sha256": "40f5e902928ef70e17d29e35c56b54d2d41b1099486a719b0959273279c9ae01"
+    },
+    {
+      "path": "docker/images.lock.json",
+      "bytes": 340,
+      "sha256": "70c816ea3a9dd663e882a70c7c0bef020a407434d50d22336a911b27d822eb75"
+    },
+    {
+      "path": "docs/FEATURES.md",
+      "bytes": 1708,
+      "sha256": "52c0cd9038104e1af7c940db1c7583b499ed739e3ec59c5e9c11033c17cfa76b"
+    },
+    {
+      "path": "docs/VERIFICATION.md",
+      "bytes": 831,
+      "sha256": "083f33615715caeee1122ee365051cfdaed36e8e233a252db9432b92afd7f88a"
+    },
+    {
+      "path": "scripts/bootstrap.py",
+      "bytes": 1393,
+      "sha256": "61b51c830d1e11345aea02e5b344e6e151b4a6e1b990667999011f85ba2c928e"
+    },
+    {
+      "path": "scripts/lab.ps1",
+      "bytes": 1308,
+      "sha256": "4ce7ba69f24dde6ea67175db4628c1a76625ebdca736732fff463c95a030c28f"
+    },
+    {
+      "path": "scripts/publication_audit.py",
+      "bytes": 7029,
+      "sha256": "f0166f392e5abfd13f183db6f257e7d64ff2e122d0db12cbf76724246a721c5f"
+    },
+    {
+      "path": "scripts/seed.py",
+      "bytes": 537,
+      "sha256": "905b88df8800ddff0aa74bf7eeb2339ce1e61bb782b83351891f32378dfed0f4"
+    },
+    {
+      "path": "scripts/simulate_bank.py",
+      "bytes": 1172,
+      "sha256": "e14fac170440bf960afe23628b9eab196da96efc77ba0516b976051338100095"
+    }
+  ],
+  "excluded": [],
+  "symlinks": [],
+  "findings": []
+}

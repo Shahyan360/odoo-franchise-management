@@ -1,0 +1,8 @@
+<odoo>
+<record id="franchise_contract_company" model="ir.rule"><field name="name">franchise_contract company boundary</field><field name="model_id" ref="model_franchise_contract"/><field name="domain_force">[('company_id', 'in', company_ids)]</field></record>
+<record id="franchise_fee_line_company" model="ir.rule"><field name="name">franchise_fee_line company boundary</field><field name="model_id" ref="model_franchise_fee_line"/><field name="domain_force">[('company_id', 'in', company_ids)]</field></record>
+<record id="franchise_bank_adapter_company" model="ir.rule"><field name="name">franchise_bank_adapter company boundary</field><field name="model_id" ref="model_franchise_bank_adapter"/><field name="domain_force">[('company_id', 'in', company_ids)]</field></record>
+<record id="franchise_dashboard_company" model="ir.rule"><field name="name">franchise_dashboard company boundary</field><field name="model_id" ref="model_franchise_dashboard"/><field name="domain_force">[('company_id', 'in', company_ids)]</field></record>
+<record id="franchise_billing_company" model="ir.rule"><field name="name">franchise_billing company boundary</field><field name="model_id" ref="model_franchise_billing"/><field name="domain_force">[('company_id', 'in', company_ids)]</field></record>
+<record id="franchise_bank_receipt_company" model="ir.rule"><field name="name">franchise_bank_receipt company boundary</field><field name="model_id" ref="model_franchise_bank_receipt"/><field name="domain_force">[('company_id', 'in', company_ids)]</field></record>
+</odoo>

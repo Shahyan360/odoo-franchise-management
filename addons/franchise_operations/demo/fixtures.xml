@@ -1,0 +1,1 @@
+<odoo noupdate="1"><record id="monthly_fee" model="product.product"><field name="name">Fictional Franchise Administration</field><field name="type">service</field></record><record id="dashboard" model="franchise.dashboard"><field name="name">Fictional Headquarters</field></record><function model="franchise.contract" name="_seed_demo"/></odoo>
